@@ -1,4 +1,4 @@
 # obsidion
-- daily obsidion update repo
+- obsidion update repo
 
-- just update daily my work in obsidion
+- just update my work in obsidion
